@@ -29,7 +29,8 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![Unit 1](https://github.com/PranavMishra28/CodePath-Android-Development/assets/90290458/edb7e6c5-6712-471c-9166-932eff8de21b)
+![Unit 1](https://github.com/PranavMishra28/CodePath-Android-Development/assets/90290458/bde90b5a-0b58-46c2-8be2-807e457727cd)
+
 
 GIF created with **ScreenToGif**
 
